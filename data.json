@@ -7,7 +7,7 @@
       "sendingEmails":1,
       "uploadFiles":1,
       "logoUrl":null,
-      "address":"{  \"address_Id" :  109969 , \"address1 \" : 466 Bolívar  , \"address2 \" : ,  \"city\" : AAJ , \"state\": CABA , \"zip\" : C1066 }",
+      "address":"{  \"address_Id\" :  109969 , \"address1 \" : 466 Bolívar  , \"address2 \" : ,  \"city\" : AAJ , \"state\": CABA , \"zip\" : C1066 }",
       "sendingTexts":1,
       "invoiceStartNo":85,
       "dispatchStartNo":87,
